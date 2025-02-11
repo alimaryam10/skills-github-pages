@@ -1,4 +1,6 @@
 ---
-title: ###XPhi Lab!
+title: XPhi Lab!
+
+this will have all the guide stuff and more
 ---
 
